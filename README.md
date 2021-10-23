@@ -1,5 +1,5 @@
 # deli-vim
-![deli](pickles.PNG)
+![deli](pickles.png)
 
 A super minimal light theme for Vim that's a step above **syntax off** -- only errors and spelling are highlighted.
 
