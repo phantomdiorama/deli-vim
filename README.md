@@ -1,7 +1,7 @@
 # deli-vim
 ![deli](pickles.png)
 
-A super minimal light theme for Vim that's a step above **syntax off** -- only errors and spelling are highlighted.
+A super minimal light theme for Vim that's a step above **syntax off** -- only errors, diffs and spelling are highlighted. Other changes only effect UI.
 
 ## Status
 WIP
