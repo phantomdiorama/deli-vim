@@ -29,7 +29,7 @@ hi PmenuSel guifg=#000000 guibg=#ffdb58 gui=NONE
 hi Search guifg=#000000 guibg=#ffdb58 gui=NONE 
 hi SpellBad guifg=#a1b56c guibg=#ffffff gui=NONE 
 hi StatusLine guifg=#ffffff guibg=#a1b56c gui=NONE 
-hi Substitute guifg=#ffdb58 guibg=#000000 gui=NONE 
+hi Substitute guifg=#ffffff guibg=#ffdb58 gui=NONE 
 hi TabLine guifg=#ffffff guibg=#a1b56c gui=NONE 
 hi TabLineFill guifg=#000000 guibg=#a1b56c gui=NONE 
 hi TabLineSel guifg=#000000 guibg=#ffdb58 gui=NONE 
